@@ -1,0 +1,34 @@
+[Common]
+- 010 Editor
+- 7-Zip
+- Burp Suite Professional
+- Chrome
+- Dropbox
+- Docker
+- Git
+- Gpg4Win
+- IDA Pro
+- KakaoTalk
+- Malwarebytes
+- MS Office or Viewer
+- Visual Studio Code
+- PyCharm
+- Python
+- UltraEdit
+- VeraCrypt
+- VMware Workstation
+- 알약
+- 한글
+
+[Internet PC]
+- Firefox
+- 팟플레이어
+- 하얀편지
+- Putty
+- WinHex
+- WinMerge
+- Wireshark
+- WSL
+- SecureCRT
+
+- AccessData FTK Imager
