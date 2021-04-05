@@ -34,3 +34,195 @@
 - SecureCRT
 
 - AccessData FTK Imager
+
+-------------------------------------
+
+jdk8
+maven
+eclipse
+intellijidea-community
+heidisql
+mysql
+mysql.workbench
+mariadb
+noodejs
+yarn
+python3 (혹은 python2)
+vscode
+atom
+notepadplusplus
+git
+sourcetree
+tortoisesvn
+jenkins
+postman
+bandizip
+potplayer
+wox
+adblockplusie
+adobereader
+googlechrome
+filezilla
+skype
+googledrive
+steam
+
+
+%choco_install% bandizip
+%choco_install% firefox
+%choco_install% googlechrome
+%choco_install% vcredist140
+%choco_install% vcredist2012
+%choco_install% directx
+%choco_install% dotnetfx
+%choco_install% javaruntime
+%choco_install% everything
+%choco_install% wox
+%choco_install% qbittorrent
+%choco_install% f.lux
+%choco_install% typora
+%choco_install% freefilesync
+%choco_install% calibre
+%choco_install% notion
+%choco_install% vlc
+%choco_install% krita
+%choco_install% paint.net
+%choco_install% jbs
+%choco_install% ditto
+%choco_install% ccleaner.portable
+%choco_install% git.install --params "/GitAndUnixToolsOnPath /NoShellIntegration /NoGuiHereIntegration /WindowsTerminal"
+
+
+choco install --pre -y --force git
+choco install --pre -y --force filezilla
+choco install --pre -y --force vscode
+choco install --pre -y --force nodejs
+choco install --pre -y --force yarn
+choco install --pre -y --force sublimetext3
+choco install --pre -y --force python
+choco install --pre -y --force r.project
+choco install --pre -y --force jdk8 -version=8.0.221
+choco install --pre -y --force cmder
+choco install --pre -y --force bandizip
+choco install --pre -y --force honeyview
+choco install --pre -y --force googlechrome
+choco install --pre -y --force mysql
+choco install --pre -y --force mysql.workbench
+choco install --pre -y --force tomcat --version=8.5.12
+
+// sudo
+choco install -y sudo
+// Chocolatey Core Extensions
+choco install -y chocolatey-core.extension
+// AutoHotkey (Install)
+choco install -y autohotkey.install
+// Bandizip
+choco install bandizip
+// Telegram
+choco install telegram.install
+// Handbrake
+choco install handbrake.install
+// Adobe Acrobat Reader
+choco install adobereader
+// Flash Player Plugin
+choco install flashplayerplugin
+// Flash Player ActiveX
+choco install flashplayeractivex
+// Google Chrome
+choco install googlechrome
+// Microsoft Edge
+choco install microsoft-edge
+// CCleaner
+choco install ccleaner
+// CrystalDiskInfo
+choco install crystaldiskinfo
+// EaseUS Todo Backup Free
+choco install todobackup
+// qBittorrent
+choco install qbittorrent
+// iTunes
+choco install itunes
+// Dropbox
+choco install dropbox
+// Google Drive File Stream
+choco install google-drive-file-stream
+// OpenVPN
+choco install openvpn
+// Calibre
+choco install calibre
+// Git
+choco install git.install
+// SourceTree
+choco install sourcetree
+// TortoiseSVN
+choco install tortoisesvn
+// Win32 OpenSSH
+choco install openssh
+// cURL
+choco install curl
+// FileZilla
+choco install filezilla
+// Telerik Fiddler Web Debugger
+choco install fiddler
+// Vim
+choco install vim
+// Node JS
+choco install nodejs.install
+// PHP
+choco install php
+// K-Lite Codec Park Full
+choco install k-litecodecpackfull
+// Office 365 Business
+choco install office365business
+// Microsoft Teams Desktop
+choco install microsoft-teams.install
+// Microsoft Power BI Desktop
+choco install powerbi
+// Visual Studio Code
+choco install vscode
+// Chocolatey Visual Studio servicing extensions
+choco install chocolatey-visualstudio.extension
+// Microsoft SQL Server
+choco install sql-server-express
+// Microsoft ODBC Driver for SQL Server
+choco install sqlserver-odbcdriver
+// MySQL
+choco install mysql
+// MariaDB
+choco install mariadb.install
+// PostgreSQL
+choco install postgresql
+// MongoDB (Install)
+choco install mongodb.install
+// DBeaver
+choco install dbeaver
+// Azure CLI
+choco install azure-cli
+// AWS Command Line Interface v2
+choco install awscli
+// Heroku
+choco install heroku-cli
+// Ruby
+choco install ruby
+// Go Programming Language
+choco install golang
+// VirtualBox
+choco install virtualbox
+// VMware Tools
+choco install vmware-tools
+// Kubernetes Command Line Interface (CLI)
+choco install kubernetes-cli
+// Vagrant (Install)
+choco install vagrant
+// OpenJDK
+choco install openjdk
+// JetBrains PyCHarm
+choco install pycharm-community
+// JetBrains Intellij IDEA
+choco install intellijidea-community
+// Graphviz
+choco install graphviz
+// Sublime Text
+choco install sublimetext2
+// JetBrains Toolbox
+choco install jetbrainstoolbox
