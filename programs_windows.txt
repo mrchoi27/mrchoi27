@@ -98,7 +98,7 @@ choco install --pre -y --force filezilla
 choco install --pre -y --force vscode
 choco install --pre -y --force nodejs
 choco install --pre -y --force yarn
-choco install --pre -y --force sublimetext3
+# choco install --pre -y --force sublimetext3
 choco install --pre -y --force python
 choco install --pre -y --force r.project
 choco install --pre -y --force jdk8 -version=8.0.221
