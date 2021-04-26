@@ -6,7 +6,7 @@ if (Get-Command $chocoCmd -errorAction SilentlyContinue)
 {
     "$chocoCmd exists"
 } else {
-    iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))
+    Invoke-Expression ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))
     Write-Host "You may need to shut down and restart powershell and/or consoles first prior to using choco."
 }
 
@@ -33,11 +33,11 @@ $lang = "python3" # "python2", "pip", "golang", "php --version 7.4.5", "composer
 
 $editors = "vscode.install", "010editor.install", "ultraedit", "beyondcompare"  # "vim", "hxd", "neovim", "notepadplusplus.install", "sublimetext3", "babelpad", 
 
-foreach($packages in $browsers, $pdfs, $utils, $gnu, $devels, $editors, $messengers, $lang) # $devels_extra $messengers
+foreach ($packages in $browsers, $pdfs, $utils, $gnu, $devels, $editors, $messengers, $lang) # $devels_extra $messengers
 {
     ## install editor
     Write-Host "Installing $packages"
-    foreach($p in $packages) {
+    foreach ($p in $packages) {
         choco install $p -y
     }
 }
