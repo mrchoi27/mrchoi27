@@ -25,7 +25,7 @@ $gnu = "grep", "awk","sed", "findutils" # ,"gnuwin"
 $devels = "git.install", "fiddler", "f.lux.install", "poshgit"
          # "git-lfs", "sourcetree", "awscli", "jetbrainstoolbox", "nodejs-lts", "azure-cli", "mysql --version 5.7.18", "redis-64", "graphviz", "postman"
 
-$lang = "python3" # "python2", "pip", "golang", "php --version 7.4.5", "composer"
+$lang = "python3", "pycharm-professional" # "python2", "pip", "golang", "php --version 7.4.5", "composer"
 
 # $devels_extra = "yarn", "nuget.commandline", "maven", "gradle"
 
