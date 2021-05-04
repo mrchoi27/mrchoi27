@@ -18,7 +18,7 @@ $browsers = "googlechrome", "firefox" # "opera"
 $pdfs = "foxitreader", "pdfxchangepro" # "adobereader", "pdfcreator", "cutepdf", "calibre", "wkhtmltopdf"
 
 $utils = "7zip.install", "putty", "sudo",  "sysinternals", "curl", "wget", "procexp", "cpu-z.install", 
-         "malwarebytes", "vmwareworkstation", "veracrypt"
+         "malwarebytes", "vmwareworkstation", "veracrypt", "microsoft-windows-terminal"
          # "openssl.light", "jq", "everything", "openssh", "baretail", "lastpass", "dropbox", "filezilla", 
 
 $gnu = "grep", "awk","sed", "findutils" # ,"gnuwin"
