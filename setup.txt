@@ -1,0 +1,8 @@
+https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development/
+https://github.com/davidwolfpaw/macbook-setup
+
+https://github.com/felixrieseberg/windows-development-environment/blob/master/README.md
+https://char.gd/blog/2017/how-to-set-up-the-perfect-modern-dev-environment-on-windows
+https://dev.to/alexandrudanpop/modern-windows-10-dev-setup-1lnl
+https://www.linkedin.com/pulse/creating-awesome-windows-10-dev-environment-steve-dalai/
+https://awesometic.tistory.com/258
