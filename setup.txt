@@ -6,3 +6,8 @@ https://char.gd/blog/2017/how-to-set-up-the-perfect-modern-dev-environment-on-wi
 https://dev.to/alexandrudanpop/modern-windows-10-dev-setup-1lnl
 https://www.linkedin.com/pulse/creating-awesome-windows-10-dev-environment-steve-dalai/
 https://awesometic.tistory.com/258
+
+https://github.com/microsoft/windows-dev-box-setup-scripts
+https://docs.microsoft.com/en-us/windows/dev-environment/
+https://www.linkedin.com/pulse/creating-awesome-windows-10-dev-environment-steve-dalai
+https://codeburst.io/setup-a-modern-development-environment-on-windows-10-dfa79323a35a
