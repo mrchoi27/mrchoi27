@@ -81,6 +81,8 @@ OpenWrt archive (https://archive.openwrt.org/barrier_breaker/14.07/)
 
 NIST Cybersecurity for IoT Program (https://www.nist.gov/itl/applied-cybersecurity/nist-cybersecurity-iot-program)
 
+The Story of How I Hacked my ISP's Cheapo Standard Issue Router (https://secnigma.wordpress.com/2022/01/02/the-story-of-how-i-hacked-my-isps-cheapo-standard-issue-router/)
+
 ## Tools
 
 emba (https://github.com/e-m-b-a/emba)
