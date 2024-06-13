@@ -66,6 +66,8 @@ Red Squad (https://book.redsquad.xyz/)
 
 IoTGoat (https://github.com/OWASP/IoTGoat)
 
+Metasploitable 2 Exploitability Guide (https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/)
+
 IoTGoat Walkthrough (https://book.redsquad.xyz/mobile-hacking/iot/iotgoat-owasp-or-walkthrough)
 
 {JSON} Place Holder (https://jsonplaceholder.typicode.com/)
