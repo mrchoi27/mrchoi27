@@ -85,6 +85,11 @@ NIST Cybersecurity for IoT Program (https://www.nist.gov/itl/applied-cybersecuri
 
 The Story of How I Hacked my ISP's Cheapo Standard Issue Router (https://secnigma.wordpress.com/2022/01/02/the-story-of-how-i-hacked-my-isps-cheapo-standard-issue-router/)
 
+IoT 장비 분석 (공유기 펌웨어 분) (https://laoching.tistory.com/entry/IoT-%EC%9E%A5%EB%B9%84-%EB%B6%84%EC%84%9D-%EA%B3%B5%EC%9C%A0%EA%B8%B0-%ED%8E%8C%EC%9B%A8%EC%96%B4-%EB%B6%84%EC%84%9D)
+
+IoT 시리즈-1 NETGear  라우터 펌웨어 애뮬레이팅-AttifyOS 이미지를 이용하는 방법 (https://m.blog.naver.com/taeyoun795/221475571571)
+
+
 ## Tools
 
 emba (https://github.com/e-m-b-a/emba)
