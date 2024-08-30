@@ -29,6 +29,8 @@ Lua Programming Gems.
 
 Lua 5.1 - A Short Reference.
 
+Lua cheatsheet (https://devhints.io/lua)
+
 
 # Cloud Certification
 
@@ -97,6 +99,16 @@ emba (https://github.com/e-m-b-a/emba)
 ## Sites
 
 https://secnigma.wordpress.com/2022/01/18/a-beginners-guide-into-router-hacking-and-firmware-emulation/
+
+
+## macOS Development Setting
+Mac Setup for Web Development [2024] (https://www.robinwieruch.de/mac-setup-web-development/)
+How to install PHP + Apache + MySQL + phpMyAdmin on macOS Monterey using Homebrew (https://gist.github.com/thomaskanzig/5f4655004cee6ea11665d04ead9420e0)
+
+
+## Misc
+Bare Metal Programming on Raspberry Pi 3 (https://github.com/bztsrc/raspi3-tutorial)
+Writing a “bare metal” operating system for Raspberry Pi 4(https://www.rpi4os.com/)
 
 
 ## Keywords
