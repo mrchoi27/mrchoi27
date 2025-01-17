@@ -13,6 +13,17 @@ mrchoi27/mrchoi27 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
+# Custom ISO
+
+How to create a custom Ubuntu live from scratch (https://mvallim.github.io/live-custom-ubuntu-from-scratch/)
+- Live Custom Ubuntu from Scratch (https://github.com/mvallim/live-custom-ubuntu-from-scratch)
+
+Create a Custom Debian Live Environment (CD or USB) (https://www.willhaley.com/blog/custom-debian-live-environment/)
+
+Kickstart를 포함한 iso 이미지 만들기 (https://handari.tistory.com/76)
+
+Linux from Scratch (https://www.linuxfromscratch.org/index.html)
+
 # Lua
 
 Learning materials for Lua
