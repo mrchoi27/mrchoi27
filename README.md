@@ -19,6 +19,7 @@ How to create a custom Ubuntu live from scratch (https://mvallim.github.io/live-
 - Live Custom Ubuntu from Scratch (https://github.com/mvallim/live-custom-ubuntu-from-scratch)
 
 Create a Custom Debian Live Environment (CD or USB) (https://www.willhaley.com/blog/custom-debian-live-environment/)
+- How to create a custom Debian live from scratch (https://dawoum.tistory.com/entry/How-to-create-a-custom-Debian-live-from-scratch)
 
 Kickstart를 포함한 iso 이미지 만들기 (https://handari.tistory.com/76)
 
